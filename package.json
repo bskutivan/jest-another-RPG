@@ -1,0 +1,22 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "A command line rpg to master the use of Object Oriented Programming and Test Driven Development practices.",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bskutivan/jest-another-rpg.git"
+  },
+  "author": "Brandon Kutivan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bskutivan/jest-another-rpg/issues"
+  },
+  "homepage": "https://github.com/bskutivan/jest-another-rpg#readme",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
